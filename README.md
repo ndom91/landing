@@ -7,3 +7,5 @@ Anywho, this person had a similar landing page he had set as his homepage saved 
 The whole purpose of this is simply to decrease "startup time" when it comes to firing up my browser and getting to the pages I most frequently visit as well as being informative. As you can see I've got two rows of @netdata badges for info about my two VPS's.
 
 LG Nico
+
+![alt text](https://i.imgur.com/Y0aOmTU.png "Screenshot")

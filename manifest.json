@@ -1,0 +1,74 @@
+{
+    "dir": "ltr",
+    "lang": "af",
+    "name": "ndo home",
+    "display": "standalone",
+    "start_url": "https://hi.iamnico.xyz/",
+    "short_name": "home",
+    "theme_color": "#e39774",
+    "description": "",
+    "orientation": "portrait",
+    "background_color": "#e39774",
+    "icons": [
+        {
+            "src": "/assets/pwa_icon/1d2c40ba-0732-7b11-17cf-05cfa6cc5999.webPlatform.png",
+            "sizes": "48x48",
+            "type": "image/png"
+        },
+        {
+            "src": "/assets/pwa_icon/abfc4bc2-fa69-3474-cd0a-1578512cb270.webPlatform.png",
+            "sizes": "1240x600",
+            "type": "image/png"
+        },
+        {
+            "src": "/assets/pwa_icon/7f134ab1-3696-7713-fb21-6a3a0b326b57.webPlatform.png",
+            "sizes": "300x300",
+            "type": "image/png"
+        },
+        {
+            "src": "/assets/pwa_icon/6000e056-5458-7bb9-f06f-3119684de0a8.webPlatform.png",
+            "sizes": "150x150",
+            "type": "image/png"
+        },
+        {
+            "src": "/assets/pwa_icon/198dd1b0-f96c-cf33-553f-72ce87b83466.webPlatform.png",
+            "sizes": "88x88",
+            "type": "image/png"
+        },
+        {
+            "src": "/assets/pwa_icon/ab7a8a4f-4d11-3727-cc64-5d7fd585da62.webPlatform.png",
+            "sizes": "24x24",
+            "type": "image/png"
+        },
+        {
+            "src": "/assets/pwa_icon/70692e24-87e0-2021-b861-c57106d3a92f.webPlatform.png",
+            "sizes": "50x50",
+            "type": "image/png"
+        },
+        {
+            "src": "/assets/pwa_icon/bb1897b1-1cb6-889b-1fd4-10abbf5a4e72.webPlatform.png",
+            "sizes": "620x300",
+            "type": "image/png"
+        },
+        {
+            "src": "/assets/pwa_icon/32512603-1245-9a5e-2939-a7c99f6c5eea.webPlatform.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/assets/pwa_icon/43197a25-4768-1599-719e-a447cc80acf3.webPlatform.png",
+            "sizes": "36x36",
+            "type": "image/png"
+        },
+        {
+            "src": "/assets/pwa_icon/b900f76c-51fb-a13a-e227-ab85da755674.webPlatform.png",
+            "sizes": "1024x1024",
+            "type": "image/png"
+        },
+        {
+            "src": "/assets/pwa_icon/7da719e1-7366-c346-3eb1-6f7475ce8ff6.webPlatform.png",
+            "sizes": "180x180",
+            "type": "image/png"
+        }
+    ]
+}

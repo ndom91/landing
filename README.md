@@ -1,11 +1,17 @@
 # landingsimple landing page
 
-So I got this idea from a screenshot of someones gtk theme I was browsing on deviantart, I believe it was.
+Simple responsive landing page I built for myself. I've recently made this a PWA as well - checkout the manifest and service-worker js file.
 
-Anywho, this person had a similar landing page he had set as his homepage saved locally. I like mine to be hosted so I can access it on my phone and work PC just as easily, but to each their own I guess..
+The background is randomly chosen on each loading out of a folder called "wallpapers". I have it filled with google earth photos atm. 
 
-The whole purpose of this is simply to decrease "startup time" when it comes to firing up my browser and getting to the pages I most frequently visit as well as being informative. As you can see I've got two rows of @netdata badges for info about my two VPS's.
+As you can see in the screenshot it looks nice ;)
 
-LG Nico
 
-![alt text](https://i.imgur.com/Y0aOmTU.png "Screenshot")
+I use this as my homepage on most browser on my various devices.
+
+The whole purpose of this is simply to decrease "startup time" when it comes to firing up my browser and getting to the pages I most frequently visit.
+
+I also have my primary server info (via @netdata badges) at the bottom of the page.
+
+
+![alt text](https://i.imgur.com/IeHK3Sv.png "Screenshot")

@@ -14,4 +14,4 @@ The whole purpose of this is simply to decrease "startup time" when it comes to 
 I also have my primary server info (via @netdata badges) at the bottom of the page.
 
 
-![alt text](https://i.imgur.com/IeHK3Sv.png "Screenshot")
+![alt text](https://i.imgur.com/76d0f9o.png "Screenshot")

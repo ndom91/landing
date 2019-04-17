@@ -177,7 +177,7 @@ function handleQuery(event, query) {
           if (keyword === qList[0]) {
             ssi = i;
             $('#searchBar').attr("placeholder", searchSources[ssi][2]);
-            $('#searchBar').val = query.replace(keyword, "").trim();
+            $('#searchBar').val(query.replace(keyword, "").trim());
             event.preventDefault();
             break;
           }
@@ -200,7 +200,7 @@ function handleQuery(event, query) {
           // window.location = searchSources[ssi][1].replace("{Q}", encodeURIComponent(query.replace(keyword, ""))).trim();
         } else {
           $('#searchBar').attr("placeholder", searchSources[ssi][2]);
-          $('#searchBar').val = "";
+          $('#searchBar').val("");
         }
       } else {
         var urlToOpen2 = searchSources[ssi][1].replace("{Q}", encodeURIComponent(query));
